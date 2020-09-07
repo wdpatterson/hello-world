@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ReportingIO
+comment0.text=\r\n\ Presents\ the\ user\ with\ a\ menu\ (printed\ to\ the\ console)\ of\ features\:\r\n\ enter\ District\ data\r\n\ enter\ Incident\ data\r\n\ provide\ reporting\ stats\ on\ highest\ value\ incident,\ \r\n\ highest\ incident\ ever\ reported\r\n\ all\ incidents\ with\ value\ greater\ than\ a\ given\ amount;\ or\ exit\r\n\r\n\ Takes\ user\ input\ from\ the\ console\ to\ choose\ one\ of\ the\ menu\ features\r\n\ Allows\ the\ user\ to\ input,\ via\ the\ console,\ the\ details\ of\ districts\r\n\ and\ incidents\r\n\ After\ executing\ one\ of\ the\ features,\ returns\ the\ user\ to\r\n\ the\ menu\ to\ choose\ another\ option\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ menu()
+numComments=3

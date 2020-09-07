@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=District
+comment0.text=\r\n\ The\ District\ class\ stores\ and\ retrieves\ names\ of\ the\ local\ districts\r\n\ Lists\ burglary\ incidents\r\n
+comment1.params=district\ incident
+comment1.target=District(java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ District\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDistrict()
+comment3.params=district
+comment3.target=void\ setDistrict(java.lang.String)
+comment4.params=
+comment4.target=double\ getHighest()
+comment5.params=year
+comment5.target=double\ getAverage(int)
+comment6.params=amount
+comment6.target=java.util.ArrayList\ getGreaterValue(int)
+comment6.text=\r\n\ Returns\ list\ of\ incidents\ in\ the\ district\ with\ value\ greater\ than\ \r\n\ user\ input\ amount\ of\ money\r\n
+numComments=7

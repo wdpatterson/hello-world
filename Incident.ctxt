@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Incident
+comment0.text=\r\nThis\ class\ represents\ the\ various\ burglaries\r\n
+comment1.params=value\ postcode\ month\ year
+comment1.target=Incident(int,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Incident\r\n
+comment2.params=
+comment2.target=int\ getPostcode()
+comment2.text=\r\n\ Method\ for\ returning\ incidents\ based\ on\ different\ variable\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=java.lang.String\ getMonth()
+comment5.params=
+comment5.target=int\ getYear()
+comment6.params=value
+comment6.target=void\ setValue(int)
+comment6.text=\r\n\ Methods\ for\ setting\ incidents\r\n
+comment7.params=postcode
+comment7.target=void\ setPostcode(int)
+comment8.params=month
+comment8.target=void\ setMonth(java.lang.String)
+comment9.params=year
+comment9.target=void\ setYear(int)
+numComments=10

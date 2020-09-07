@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Reporting
+comment0.text=\r\n\ Reporting\ class\ holds\ info\ about\ all\ districts\r\n
+comment1.params=hValue\ d
+comment1.target=Reporting(int,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ getDistrict()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Reporting\r\n\ Returns\ district\ name\r\n
+comment3.params=district
+comment3.target=void\ setDistrict(java.util.ArrayList)
+comment4.params=year
+comment4.target=double\ getLargestAverage(int)
+comment4.text=\r\n\ Methods\ to\ return\:\ The\ district\ with\ the\ largest\ average\ value\ \r\n\ incident\ for\ a\ given\ year.\r\n
+comment5.params=
+comment5.target=double\ getLargestValue()
+comment6.params=amount
+comment6.target=java.util.ArrayList\ getGreaterList(int)
+comment6.text=\r\n\ A\ list\ of\ all\ incidents\ recorded\ with\ value\ greater\ \r\n\ than\ a\ given\ amount\ of\ money.\r\n
+numComments=7
